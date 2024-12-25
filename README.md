@@ -2,7 +2,7 @@
 ### Authors: 105321047 105321035
 
 #### Input/Output unit:<br>
-* 8x8 LED 矩陣，用來顯示閃躲遊戲畫面。下圖為對戰中的畫面。<br>
+* 8x8 LED 矩陣，用來顯示閃躲遊戲畫面。下圖為遊戲中的畫面。<br>
 <img src="https://github.com/JamieYang-lab/FPGA-project-/blob/main/images/462556518_1376486029986701_6593770486051233512_n.jpg" width="300"/><br>
 * 七段顯示器，用來顯示倒數計時。<br>
 <img src="https://github.com/JamieYang-lab/FPGA-project-/blob/main/images/462567880_1102193041378006_1474330130410306633_n.jpg" width="300"/><br>
